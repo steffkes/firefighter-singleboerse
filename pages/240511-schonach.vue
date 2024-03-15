@@ -42,3 +42,9 @@
     ></iframe>
   </div>
 </template>
+
+<script setup>
+useSeoMeta({
+  title: "11.05. Schonach",
+});
+</script>
