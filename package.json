@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "rm -rf /tmp/nitro && nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "format": "prettier --write --list-different .",
+    "test": "jest"
+  },
+  "resolutions": {
+    "consola": "^3.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "nuxt": "^3.3.2",
+    "prettier": "2.8.1"
+  },
+  "dependencies": {
+    "bulma": "^0.9.4"
+  }
+}

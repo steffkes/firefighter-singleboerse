@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  app:
+    image: node:16.17-alpine3.16
+    working_dir: /app
+    command: npm run dev
+    volumes:
+      - ./:/app
+    ports:
+      - 127.0.0.1:6700:3000
+      - 127.0.0.1:6701:24678
+    environment:
+      NUXT_HOST: 0.0.0.0
