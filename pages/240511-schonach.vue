@@ -9,8 +9,8 @@
     </div>
   </section>
 
-  <div class="container">
-    <p>
+  <div class="container is-max-desktop">
+    <p class="block mt-4">
       Alleine unterwegs und auf der Suche nach jemand der mit dir läuft? Dann
       bist du hier genau richtig! Schau wer bereits nach einem Laufpartner sucht
       und nimm Kontakt auf:
@@ -23,16 +23,17 @@
       width="100%"
       height="533"
       style="background: transparent"
+      class="block"
     ></iframe>
 
-    <p>
+    <p class="block">
       Nichts passendes gefunden? Dann leg einfach einen neuen Eintrag an und wir
       drücken die Daumen, dass sich jemand bei dir meldet! Trotzdem ist
       regelmäßig wieder reinschauen sicher kein Fehler ;)
     </p>
 
     <iframe
-      class="airtable-embed"
+      class="airtable-embed block"
       src="https://airtable.com/embed/appPvmwKKIiUVz7Z5/shrZ058cmBKDEqKBf?backgroundColor=gray"
       frameborder="0"
       onmousewheel=""
