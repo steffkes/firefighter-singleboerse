@@ -11,3 +11,4 @@ services:
       - 127.0.0.1:6701:24678
     environment:
       NUXT_HOST: 0.0.0.0
+      AIRTABLE_API_KEY:
