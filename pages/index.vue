@@ -4,10 +4,10 @@
       <div class="content">
         <h1>Singlebörsen</h1>
         <ul>
-          <li>
+          <li><del>
             <NuxtLink to="240511-schonach">11.05. Schonach</NuxtLink>
             <span class="tag is-primary ml-2">🤚 {{ count_schonach }}</span>
-          </li>
+          </del></li>
         </ul>
       </div>
     </section>
