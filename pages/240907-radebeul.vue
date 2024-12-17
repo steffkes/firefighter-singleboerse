@@ -50,6 +50,6 @@
 
 <script setup>
 useSeoMeta({
-  title: "07.09. Radebeul",
+  title: "07.09.24 Radebeul",
 });
 </script>

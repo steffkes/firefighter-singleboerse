@@ -46,6 +46,6 @@
 
 <script setup>
 useSeoMeta({
-  title: "11.05. Schonach",
+  title: "11.05.24 Schonach",
 });
 </script>
