@@ -2,7 +2,7 @@
   <li>
     <component :is="past ? 's' : 'p'">
       <NuxtLink :to="ident">{{ title }}</NuxtLink>
-      <span class="tag is-primary ml-2">🤚 {{ count }}</span>
+      <span v-if="!past" class="tag is-primary ml-2">🤚 {{ count }}</span>
     </component>
   </li>
 </template>
