@@ -8,6 +8,9 @@ export default defineNuxtConfig({
   },
   css: ["@/node_modules/bulma/css/bulma.min.css"],
   nitro: {
+    devServer: {
+      watch: ["./data.js"],
+    },
     esbuild: {
       options: {
         target: "esnext",
