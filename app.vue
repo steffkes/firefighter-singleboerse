@@ -4,7 +4,7 @@
     <div class="content has-text-centered">
       <p>
         Hast du Fragen zur Singlebörse?<br />
-        Melde dich bitte bei <strong>Stefan</strong>:<br>
+        Melde dich bitte bei <strong>Stefan</strong>:<br />
         <a href="tel:004916097048114">📞 0160 970 48 114</a>&nbsp;
         <a href="mailto:stefan@mathe.is">✉️ stefan@mathe.is</a>
       </p>

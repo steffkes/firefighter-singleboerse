@@ -51,6 +51,6 @@
 <script setup>
 useSeoMeta({
   title: "08.02.25 Ulm",
-  ogImage: "/250208-ulm-og.jpg"
+  ogImage: "/250208-ulm-og.jpg",
 });
 </script>
