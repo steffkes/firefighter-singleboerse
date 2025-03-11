@@ -6,7 +6,7 @@
         <ul>
           <newEntry v-for="event in events" :event="event"></newEntry>
 
-          <entry ident="250208-ulm" title="08.02.25 Ulm"></entry>
+          <entry ident="250208-ulm" title="08.02.25 Ulm" past="true"></entry>
           <entry
             ident="240907-radebeul"
             title="07.09.24 Radebeul"
